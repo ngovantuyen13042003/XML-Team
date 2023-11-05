@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<danhsach>
+	<phieunhap>
+		<maPN></maPN>
+		<ngayNhapHang></ngayNhapHang>
+		<soLuong></soLuong>
+		<maNV></maNV>
+		<maNCC></maNCC>
+	</phieunhap>
+</danhsach>

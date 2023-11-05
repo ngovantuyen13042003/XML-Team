@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<danhsach>
+	<nhanvien>
+		<maNV>
+			
+		</maNV>
+		<tenNV></tenNV>
+		<gioiTinh></gioiTinh>
+		<matKhau></matKhau>
+		<SDT></SDT>
+		<diaChi></diaChi>
+	</nhanvien>
+</danhsach>

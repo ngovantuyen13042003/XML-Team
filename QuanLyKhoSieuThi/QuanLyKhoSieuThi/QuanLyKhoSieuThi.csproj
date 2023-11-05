@@ -79,5 +79,13 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="DanhMuc.xml" />
+    <Content Include="NhaCungCap.xml" />
+    <Content Include="NhanVien.xml" />
+    <Content Include="PhieuNhap.xml" />
+    <Content Include="PhieuXuat.xml" />
+    <Content Include="SanPham.xml" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
