@@ -1,21 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 
-<danhsach>
-	<sanpham>
-		<maSP>
-			
-		</maSP>
-		<tenSP>
-			
-		</tenSP>
-		<gia>
-			
-		</gia>
-		<soLuongTonKho>
-			
-		</soLuongTonKho>
-		<maDM>
-			
-		</maDM>
-	</sanpham>
-</danhsach>
+<danhSach>
+	<sanPham>
+		<maSP></maSP>
+		<tenSP></tenSP>
+		<gia></gia>
+		<soLuongTonKho></soLuongTonKho>
+		<maDM></maDM>
+	</sanPham>
+</danhSach>
