@@ -16,5 +16,20 @@ namespace QuanLyKhoSieuThi
         {
             InitializeComponent();
         }
+
+        private void xuatKhoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            new XuatKhoForm().Show();
+        }
+
+        private void nhapKhoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            new NhapKhoForm().Show();
+        }
+
+        private void quanLyKhoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            new QuanLyKhoForm().Show();
+        }
     }
 }

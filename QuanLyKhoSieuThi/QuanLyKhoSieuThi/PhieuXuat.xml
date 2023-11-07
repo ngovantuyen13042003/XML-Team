@@ -1,9 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?> 
-<danhsach>
-	<phieuxuat>
+<danhSach>
+	<phieuXuat>
 		<maPX></maPX>
 		<ngayXuatHang></ngayXuatHang>
-		<soLuong></soLuong>
 		<maNV></maNV>
-	</phieuxuat>
-</danhsach>
+	</phieuXuat>
+</danhSach>
