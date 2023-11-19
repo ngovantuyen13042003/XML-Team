@@ -1,7 +1,27 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<danhSach>
-	<danhMuc>
-		<maDM></maDM>
-		<tenDM></tenDM>
-	</danhMuc>
-</danhSach>
+<?xml version="1.0" standalone="yes"?>
+<danhsach>
+  <DanhMuc>
+    <maDM>DM01</maDM>
+    <tenDM>Grocery</tenDM>
+  </DanhMuc>
+  <DanhMuc>
+    <maDM>DM02</maDM>
+    <tenDM>Thực vật</tenDM>
+  </DanhMuc>
+  <DanhMuc>
+    <maDM>DM03</maDM>
+    <tenDM>Động vật</tenDM>
+  </DanhMuc>
+  <DanhMuc>
+    <maDM>DM04</maDM>
+    <tenDM>Tươi sống</tenDM>
+  </DanhMuc>
+  <DanhMuc>
+    <maDM>DM05</maDM>
+    <tenDM>Đồ Khô</tenDM>
+  </DanhMuc>
+  <DanhMuc>
+    <maDM>DM06</maDM>
+    <tenDM>Thời trang</tenDM>
+  </DanhMuc>
+</danhsach>

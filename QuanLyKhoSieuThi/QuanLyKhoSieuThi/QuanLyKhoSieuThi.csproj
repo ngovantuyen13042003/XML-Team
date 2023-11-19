@@ -33,6 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="PresentationFramework" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -46,34 +47,30 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="ChinhSuaSanPham.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="ChinhSuaSanPham.Designer.cs">
+      <DependentUpon>ChinhSuaSanPham.cs</DependentUpon>
     </Compile>
-    <Compile Include="QuanLyKhoForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="QuanLyKhoForm.Designer.cs">
-      <DependentUpon>QuanLyKhoForm.cs</DependentUpon>
-    </Compile>
-    <Compile Include="NhapKhoForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="NhapKhoForm.Designer.cs">
-      <DependentUpon>NhapKhoForm.cs</DependentUpon>
-    </Compile>
+    <Compile Include="ComboboxItem.cs" />
+    <Compile Include="ListItem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="XuatKhoForm.cs">
+    <Compile Include="QuanLySanPham.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="XuatKhoForm.Designer.cs">
-      <DependentUpon>XuatKhoForm.cs</DependentUpon>
+    <Compile Include="QuanLySanPham.Designer.cs">
+      <DependentUpon>QuanLySanPham.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="ThemSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThemSanPham.Designer.cs">
+      <DependentUpon>ThemSanPham.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ChinhSuaSanPham.resx">
+      <DependentUpon>ChinhSuaSanPham.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -84,8 +81,11 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="XuatKhoForm.resx">
-      <DependentUpon>XuatKhoForm.cs</DependentUpon>
+    <EmbeddedResource Include="QuanLySanPham.resx">
+      <DependentUpon>QuanLySanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThemSanPham.resx">
+      <DependentUpon>ThemSanPham.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -101,13 +101,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="ChiTietPhieuNhap.xml" />
-    <Content Include="ChiTietPhieuXuat.xml" />
     <Content Include="DanhMuc.xml" />
-    <Content Include="NhaCungCap.xml" />
-    <Content Include="NhanVien.xml" />
-    <Content Include="PhieuNhap.xml" />
-    <Content Include="PhieuXuat.xml" />
     <Content Include="SanPham.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
