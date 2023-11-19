@@ -1,11 +1,30 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-
-<danhSach>
-	<sanPham>
-		<maSP></maSP>
-		<tenSP></tenSP>
-		<gia></gia>
-		<soLuongTonKho></soLuongTonKho>
-		<maDM></maDM>
-	</sanPham>
-</danhSach>
+<?xml version="1.0" standalone="yes"?>
+<danhsach>
+  <SanPham>
+    <maSP>1</maSP>
+    <tenSP>1</tenSP>
+    <gia>1.0000</gia>
+    <soLuongTonKho>1</soLuongTonKho>
+    <maDM>DM05</maDM>
+    <Update>Update</Update>
+    <Remove>Remove</Remove>
+  </SanPham>
+  <SanPham>
+    <maSP>253</maSP>
+    <tenSP>23</tenSP>
+    <gia>243.0000</gia>
+    <soLuongTonKho>42</soLuongTonKho>
+    <maDM>DM04</maDM>
+    <Update>Update</Update>
+    <Remove>Remove</Remove>
+  </SanPham>
+  <SanPham>
+    <maSP>423</maSP>
+    <tenSP>23</tenSP>
+    <gia>423.0000</gia>
+    <soLuongTonKho>423</soLuongTonKho>
+    <maDM>DM02</maDM>
+    <Update>Update</Update>
+    <Remove>Remove</Remove>
+  </SanPham>
+</danhsach>

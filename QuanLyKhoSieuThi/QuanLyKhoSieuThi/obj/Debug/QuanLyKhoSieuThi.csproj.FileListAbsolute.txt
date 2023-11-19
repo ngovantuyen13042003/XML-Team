@@ -1,0 +1,12 @@
+D:\XML\EndTerm\XML-Team\QuanLyKhoSieuThi\QuanLyKhoSieuThi\obj\Debug\QuanLyKhoSieuThi.csproj.AssemblyReference.cache
+D:\XML\EndTerm\XML-Team\QuanLyKhoSieuThi\QuanLyKhoSieuThi\obj\Debug\QuanLyKhoSieuThi.Properties.Resources.resources
+D:\XML\EndTerm\XML-Team\QuanLyKhoSieuThi\QuanLyKhoSieuThi\obj\Debug\QuanLyKhoSieuThi.QuanLySanPham.resources
+D:\XML\EndTerm\XML-Team\QuanLyKhoSieuThi\QuanLyKhoSieuThi\obj\Debug\QuanLyKhoSieuThi.ThemSanPham.resources
+D:\XML\EndTerm\XML-Team\QuanLyKhoSieuThi\QuanLyKhoSieuThi\obj\Debug\QuanLyKhoSieuThi.csproj.GenerateResource.cache
+D:\XML\EndTerm\XML-Team\QuanLyKhoSieuThi\QuanLyKhoSieuThi\obj\Debug\QuanLyKhoSieuThi.csproj.CoreCompileInputs.cache
+D:\XML\EndTerm\XML-Team\QuanLyKhoSieuThi\QuanLyKhoSieuThi\bin\Debug\QuanLyKhoSieuThi.exe.config
+D:\XML\EndTerm\XML-Team\QuanLyKhoSieuThi\QuanLyKhoSieuThi\bin\Debug\QuanLyKhoSieuThi.exe
+D:\XML\EndTerm\XML-Team\QuanLyKhoSieuThi\QuanLyKhoSieuThi\bin\Debug\QuanLyKhoSieuThi.pdb
+D:\XML\EndTerm\XML-Team\QuanLyKhoSieuThi\QuanLyKhoSieuThi\obj\Debug\QuanLyKhoSieuThi.exe
+D:\XML\EndTerm\XML-Team\QuanLyKhoSieuThi\QuanLyKhoSieuThi\obj\Debug\QuanLyKhoSieuThi.pdb
+D:\XML\EndTerm\XML-Team\QuanLyKhoSieuThi\QuanLyKhoSieuThi\obj\Debug\QuanLyKhoSieuThi.ChinhSuaSanPham.resources
