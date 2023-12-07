@@ -10,3 +10,17 @@ D:\C#\SupermarketStockXML\QuanLyKhoSieuThi\QuanLyKhoSieuThi\obj\Debug\QuanLyKhoS
 D:\C#\SupermarketStockXML\QuanLyKhoSieuThi\QuanLyKhoSieuThi\obj\Debug\QuanLyKhoSieuThi.NhapKho.resources
 D:\C#\SupermarketStockXML\QuanLyKhoSieuThi\QuanLyKhoSieuThi\obj\Debug\QuanLyKhoSieuThi.XuatKho.resources
 D:\C#\SupermarketStockXML\QuanLyKhoSieuThi\QuanLyKhoSieuThi\obj\Debug\QuanLyKhoSieuThi.MainForm.resources
+D:\XML\XML\StoreManagement\XML-Team\QuanLyKhoSieuThi\QuanLyKhoSieuThi\bin\Debug\QuanLyKhoSieuThi.exe.config
+D:\XML\XML\StoreManagement\XML-Team\QuanLyKhoSieuThi\QuanLyKhoSieuThi\bin\Debug\QuanLyKhoSieuThi.exe
+D:\XML\XML\StoreManagement\XML-Team\QuanLyKhoSieuThi\QuanLyKhoSieuThi\bin\Debug\QuanLyKhoSieuThi.pdb
+D:\XML\XML\StoreManagement\XML-Team\QuanLyKhoSieuThi\QuanLyKhoSieuThi\obj\Debug\QuanLyKhoSieuThi.csproj.AssemblyReference.cache
+D:\XML\XML\StoreManagement\XML-Team\QuanLyKhoSieuThi\QuanLyKhoSieuThi\obj\Debug\QuanLyKhoSieuThi.MainForm.resources
+D:\XML\XML\StoreManagement\XML-Team\QuanLyKhoSieuThi\QuanLyKhoSieuThi\obj\Debug\QuanLyKhoSieuThi.NhapKho.resources
+D:\XML\XML\StoreManagement\XML-Team\QuanLyKhoSieuThi\QuanLyKhoSieuThi\obj\Debug\QuanLyKhoSieuThi.Properties.Resources.resources
+D:\XML\XML\StoreManagement\XML-Team\QuanLyKhoSieuThi\QuanLyKhoSieuThi\obj\Debug\QuanLyKhoSieuThi.XuatKho.resources
+D:\XML\XML\StoreManagement\XML-Team\QuanLyKhoSieuThi\QuanLyKhoSieuThi\obj\Debug\QuanLyKhoSieuThi.csproj.GenerateResource.cache
+D:\XML\XML\StoreManagement\XML-Team\QuanLyKhoSieuThi\QuanLyKhoSieuThi\obj\Debug\QuanLyKhoSieuThi.csproj.CoreCompileInputs.cache
+D:\XML\XML\StoreManagement\XML-Team\QuanLyKhoSieuThi\QuanLyKhoSieuThi\obj\Debug\QuanLyKhoSieuThi.exe
+D:\XML\XML\StoreManagement\XML-Team\QuanLyKhoSieuThi\QuanLyKhoSieuThi\obj\Debug\QuanLyKhoSieuThi.pdb
+D:\XML\XML\StoreManagement\XML-Team\QuanLyKhoSieuThi\QuanLyKhoSieuThi\obj\Debug\QuanLyKhoSieuThi.QuanLySanPham.resources
+D:\XML\XML\StoreManagement\XML-Team\QuanLyKhoSieuThi\QuanLyKhoSieuThi\obj\Debug\QuanLyKhoSieuThi.QuanLyNhanVien.resources

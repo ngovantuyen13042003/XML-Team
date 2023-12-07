@@ -31,9 +31,9 @@ namespace QuanLyKhoSieuThi
 
         private void Connect()
         {
-            string server = Environment.MachineName + "\\SQLExpress";
+            string server = Environment.MachineName + "\\NGOVANTUYEN";
             string username = "sa";
-            string password = "123456";
+            string password = "13042003";
             string database = "QuanLyKhoSieuThi";
             string connectionString = "Data Source=" + server + ";Initial Catalog=" + database + ";User ID=" + username + ";Password=" + password + ";Persist Security Info=true;";
             connection = new SqlConnection(connectionString);
@@ -653,6 +653,11 @@ namespace QuanLyKhoSieuThi
             FormatGrid(dgv_DanhSachSanPhamPX);
             tb_MaPhieuXuat.Text = maPX;
             tb_NgayXuatHang.Text = dgv_XuatKho.SelectedCells[1].Value.ToString().Trim();
+        }
+
+        private void dgv_XuatKho_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }

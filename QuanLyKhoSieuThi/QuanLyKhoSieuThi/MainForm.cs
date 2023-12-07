@@ -32,5 +32,15 @@ namespace QuanLyKhoSieuThi
         {
             Close();
         }
+
+        private void btn_sanpham_Click(object sender, EventArgs e)
+        {
+            new QuanLySanPham().Show();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            new QuanLyNhanVien().Show();
+        }
     }
 }

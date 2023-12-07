@@ -1,11 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <danhSach>
-	<nhanVien>
-		<maNV></maNV>
-		<tenNV></tenNV>
-		<gioiTinh></gioiTinh>
-		<matKhau></matKhau>
-		<SDT></SDT>
-		<diaChi></diaChi>
-	</nhanVien>
+  <NhanVien maNV="NV02" tenNV="NGÔ VĂN TUYẾN" gioiTinh="NAM" SDT="0987654321" diaChi="QUẢNG TRỊ" />
+  <NhanVien maNV="NV1" tenNV="Hieu Tuesday" gioiTinh="bê đê chúa" SDT="0123456789" diaChi="Quảng nôm" />
 </danhSach>

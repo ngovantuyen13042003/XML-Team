@@ -1,11 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-
+﻿<?xml version="1.0" encoding="utf-8"?>
 <danhSach>
-	<sanPham>
-		<maSP></maSP>
-		<tenSP></tenSP>
-		<gia></gia>
-		<soLuongTonKho></soLuongTonKho>
-		<maDM></maDM>
-	</sanPham>
+  <SanPham maSP="123123" tenSP="12223" gia="1.0000" soLuongTonKho="31231" maDM="DM04" />
+  <SanPham maSP="142" tenSP="124" gia="2.0000" soLuongTonKho="142" maDM="DM06" />
+  <SanPham maSP="21" tenSP="12" gia="2.0000" soLuongTonKho="12" maDM="DM04" />
+  <SanPham maSP="211" tenSP="Ngô Văn Tuyến" gia="35.0000" soLuongTonKho="312" maDM="DM03" />
+  <SanPham maSP="3" tenSP="duy ăn cức" gia="2.0000" soLuongTonKho="21345" maDM="DM04" />
+  <SanPham maSP="choa" tenSP="ghê cái chó gì" gia="15.0000" soLuongTonKho="23" maDM="DM04" />
 </danhSach>

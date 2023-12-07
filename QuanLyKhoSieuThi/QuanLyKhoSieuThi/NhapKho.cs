@@ -32,9 +32,9 @@ namespace QuanLyKhoSieuThi
 
         private void Connect()
         {
-            string server = Environment.MachineName + "\\SQLExpress";
+            string server = Environment.MachineName + "\\NGOVANTUYEN";
             string username = "sa";
-            string password = "123456";
+            string password = "13042003";
             string database = "QuanLyKhoSieuThi";
             string connectionString = "Data Source=" + server + ";Initial Catalog=" + database + ";User ID=" + username + ";Password=" + password + ";Persist Security Info=true;";
             connection = new SqlConnection(connectionString);
@@ -661,6 +661,16 @@ namespace QuanLyKhoSieuThi
             {
                 MessageBox.Show("Error: " + ex.Message);
             }
+        }
+
+        private void dgv_NhapKho_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
         }
     }
 }
